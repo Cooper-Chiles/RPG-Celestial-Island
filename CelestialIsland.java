@@ -1,3 +1,9 @@
+/*
+Name: Cooper Chiles
+Class: CPSC1060
+Lab section: 005
+Github Link: https://github.com/Cooper-Chiles/RPG-Celestial-Island
+*/
 import java.util.Scanner;
 
 public class CelestialIsland {
