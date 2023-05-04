@@ -1,1 +1,3 @@
-# RPG-Celestial-Island
+# Celestial-Island
+
+An explorable dungeon RPG
